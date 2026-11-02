@@ -37,15 +37,21 @@ The following features are planned for future development:
 
 # Technology Stack
 
-Category	Technology
-Programming Language: Kotlin (JVM 21)
-Networking: Java Networking API
-System Utilities:	macOS ping, route, networksetup
-Build Tool:	Gradle (Kotlin DSL)
-Data Storage:	CSV
-Testing:	JUnit
-Version Control: GitHub
-Development Environment:	IntelliJ IDEA
+Programming Language: Kotlin (JVM 21). 
+
+Networking: Java Networking API. 
+
+System Utilities:	macOS ping, route, networksetup. 
+
+Build Tool:	Gradle (Kotlin DSL). 
+
+Data Storage:	CSV. 
+
+Testing:	JUnit. 
+
+Version Control: GitHub. 
+
+Development Environment:	IntelliJ IDEA. 
 
 # Project Documentation
 
