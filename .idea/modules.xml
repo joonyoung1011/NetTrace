@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetTrace.iml" filepath="$PROJECT_DIR$/.idea/NetTrace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetTrace-code.iml" filepath="$PROJECT_DIR$/NetTrace-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetTrace-code.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NetTrace-code.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetTrace-code.test.iml" filepath="$PROJECT_DIR$/.idea/modules/NetTrace-code.test.iml" />
+    </modules>
+  </component>
+</project>
