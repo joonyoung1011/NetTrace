@@ -21,7 +21,9 @@ The first version of NetTrace will focus on four core features:
 3. Network Event Logging
     * Record latency measurements and connection failures.
     * Save timestamps and network statistics in CSV files.
-  
+4. Wi-Fi Benchmarking and Comparison
+    * Calculate average latency, jitter, and connection failure rates.
+    * Compare benchmark results collected from different Wi-Fi networks.
       
 # Future Plans
 
@@ -50,9 +52,6 @@ Development Environment:	IntelliJ IDEA
 # Project Documentation
 
 The project planning documents are available in the docs/ directory.
-
-* Eisenhower Matrix
-* System Diagram
 
 Development Plan
 
