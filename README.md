@@ -35,8 +35,6 @@ The following features are planned for future development:
   
 * 3. Automatic Wi-Fi Information Collection: Collect SSID, signal strength, frequency band, and access point information.
 
-* 4. Real-Time Notifications: Alert users when significant latency spikes or connection interruptions occur.
-
 # Technology Stack
 
 Category	Technology
